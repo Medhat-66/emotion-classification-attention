@@ -1,0 +1,44 @@
+{
+  "n_examples_total_raw_goemotions": 54263,
+  "n_examples_after_filtering": 5410,
+  "retention_rate": 0.09969961115308774,
+  "class_distribution": {
+    "joy": 1052,
+    "sadness": 1003,
+    "anger": 1265,
+    "fear": 553,
+    "surprise": 902,
+    "disgust": 635
+  },
+  "class_distribution_pct": {
+    "joy": 19.45,
+    "sadness": 18.54,
+    "anger": 23.38,
+    "fear": 10.22,
+    "surprise": 16.67,
+    "disgust": 11.74
+  },
+  "char_length_stats": {
+    "count": 5410.0,
+    "mean": 65.80147874306839,
+    "std": 36.285348409280154,
+    "min": 4.0,
+    "25%": 35.0,
+    "50%": 62.0,
+    "75%": 93.0,
+    "max": 182.0
+  },
+  "word_length_stats": {
+    "count": 5410.0,
+    "mean": 12.3909426987061,
+    "std": 6.713454180597744,
+    "min": 1.0,
+    "25%": 7.0,
+    "50%": 12.0,
+    "75%": 18.0,
+    "max": 31.0
+  },
+  "raw_vocab_size": 11913,
+  "duplicate_texts": 16,
+  "null_values": 0
+}

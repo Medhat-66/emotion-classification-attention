@@ -1,0 +1,18 @@
+{
+  "LABEL2ID": {
+    "joy": 0,
+    "sadness": 1,
+    "anger": 2,
+    "fear": 3,
+    "surprise": 4,
+    "disgust": 5
+  },
+  "ID2LABEL": {
+    "0": "joy",
+    "1": "sadness",
+    "2": "anger",
+    "3": "fear",
+    "4": "surprise",
+    "5": "disgust"
+  }
+}

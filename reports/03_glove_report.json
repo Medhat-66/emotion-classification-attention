@@ -1,0 +1,8 @@
+{
+  "embedding_dim": 100,
+  "vocab_size": 2968,
+  "glove_tokens_loaded": 400000,
+  "matched_tokens": 2202,
+  "oov_tokens": 764,
+  "coverage": 0.7424
+}
